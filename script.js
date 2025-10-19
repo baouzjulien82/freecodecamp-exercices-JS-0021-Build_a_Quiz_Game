@@ -28,7 +28,7 @@ const questions = [
 ];
 
 const getRandomQuestion = (questionsArray) => {
-  return questions[Math.floor(Math.random() * questionsArray.length)];
+  return questionsArray[Math.floor(Math.random() * questionsArray.length)];
 };
 
 const getRandomComputerChoice = (availableChoicesArray) => {

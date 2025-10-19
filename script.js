@@ -4,8 +4,7 @@ const questions = [
   question: "Quel race de chat provient de l'ancienne Thaïlande ?",
   choices: ["Siamois", "Tigré", "Persan"],
   answer: "Siamois"
-  }, 
-  {
+  }, {
   category: "Histoire",
   question: "En quelle année a démarrée la première guerre mondiale ?",
   choices: ["1900", "2000", "1914"],
